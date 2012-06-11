@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>{{ flatpage.title }}</title>
+	</head>
+
+    <body>
+        <form method="get" action="/search/">
+            <p>
+            </p>
+        </form>
+
+		<h1>{{ flatpage.title }}</h1>
+		{{ flatpage.content }}
+	</body>
+
+</html>
