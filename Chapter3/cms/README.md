@@ -1,4 +1,4 @@
-Change the database name in the settings.py file
+Change the database name in the settings.py file inside the cms folder.
 ==============================
 
 
